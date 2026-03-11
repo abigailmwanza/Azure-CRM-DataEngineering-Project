@@ -1,0 +1,9 @@
+{
+	"name": "databasedataengineer",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9f7ffd6-03fe-4ac7-8611-763cf5c3f84f",
+		"tenantId": "2263419a-6ca7-40e5-afa4-d1581278b3e9"
+	}
+}
